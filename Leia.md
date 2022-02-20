@@ -1,4 +1,4 @@
-#Financas usando React Native 
+# Financas usando React Native 
 projeto pessoal que cria uma plataforma onde voce pode registrar despesas e lucros tambem tem incluso o sistema de navegacao e login para cada usuario
 
 # 📔 Requisitos:
