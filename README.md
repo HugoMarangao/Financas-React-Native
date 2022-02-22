@@ -19,6 +19,11 @@
 
 projeto pessoal que cria uma plataforma onde você pode registrar despesas e lucros também tem incluso o sistema de navegação e login para cada usuário
 
+
+<a href="">
+    <img src="https://api-club.hotmart.com/file/public/v5/files/d1dddb64-a1b4-4406-ba15-5f64b274f908"/>
+  </a>
+
 # 📔 Requisitos:
 - necessário o android studio ou o sistema da apple para uso do simulador.
 - React Navigation
