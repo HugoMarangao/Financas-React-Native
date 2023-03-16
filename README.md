@@ -1,4 +1,4 @@
-# Finanças usando React Native 
+# Finance using React Native
 <p align="center">
   <a href="https://github.com/facebook/react-native/blob/HEAD/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="React Native is released under the MIT license." />
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-projeto pessoal que cria uma plataforma onde você pode registrar despesas e lucros também tem incluso o sistema de navegação e login para cada usuário
+Personal project that creates a platform where you can record expenses and profits also includes the navigation and login system for each user
 
 
 <a href="">
@@ -25,7 +25,7 @@ projeto pessoal que cria uma plataforma onde você pode registrar despesas e luc
   </a>
 
 # 📔 Requisitos:
-- necessário o android studio ou o sistema da apple para uso do simulador.
+- Android studio or apple system is required to use the simulator.
 - React Navigation
 - Firebase 
 - Expo
